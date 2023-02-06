@@ -22,6 +22,7 @@
 2) Download this repository or copy file create_traffic_profile.py.
 3) Run pynton create_traffic_profile.py
 4) Inform quantity of VLANs you need and each VLAN ID.
+[Alt text](/relative/path/to/create_traffic_profile.py?raw=true "VLANs and IDs")
 
 # Use case
 To create VLAN Tagging Operation, Traffic and ONU Profiles for Furukawa Laserway OLT.
