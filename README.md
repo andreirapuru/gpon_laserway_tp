@@ -12,9 +12,9 @@
 # Limitations
 - Config VLANs (bridge mode) only for Pon Ports (for uplink ports you will need to configure manually).
 - Config only 3 Traffic Profiles, for each combination of VLANs.
-- 1 Traffic Profile with 4 Ports in VLAN X
-- 1 Traffic Profile with 3 Ports in VLAN X and 1 Port in VLAN Y
-- 1 Traffic Profile with 2 Ports in VLAN X and 2 Ports in VLAN Y
+ - 1 Traffic Profile with 4 Ports in VLAN X
+ - 1 Traffic Profile with 3 Ports in VLAN X and 1 Port in VLAN Y
+ - 1 Traffic Profile with 2 Ports in VLAN X and 2 Ports in VLAN Y
 - 1 ONU Profile for each Traffic Profile
 
 # Usage
