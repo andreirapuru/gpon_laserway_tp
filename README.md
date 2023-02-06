@@ -1,6 +1,6 @@
 # Gpon Laserway Traffic and Onu Profile
 - Script to generate bridge config (VLANs create and tagging) and GPON config (VLAN Tagging Operation, Traffic and ONU profiles), for Furukawa Laserway GPON OLT.
-- Config generated is saved in a .txt.
+- Config generated is saved in a .txt (gpon_config.txt).
 - The script also has a static DBA Profile, for sample.
 
 # Requires
